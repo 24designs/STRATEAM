@@ -169,7 +169,7 @@
                       420 LAI CHI KOK ROAD, SHAM SUI PO, HONG KONG
                     </div>
                     <div class="col-md-12 contact_info">
-                      <a href="mailto:info@company.net" class="contact-info-link">
+                      <a href="mailto:info@strateam.net" class="contact-info-link">
                       <i class="fa fa-envelope contact-fa"></i>info@strateam.net
                       </a><br/>
                       <a href="www.strateam.net" class="contact-info-link">
