@@ -2,8 +2,8 @@
   /* =====================================================
    * change this to the email you want the form to send to
    * ===================================================== */
-  $email_to = " info@strateam.com"; 
-  $email_from = " info@strateam.com"; // must be different than $email_from 
+  $email_to = " info@strateam.net"; 
+  $email_from = " info@strateam.net"; // must be different than $email_from 
   $email_subject = "Contact Form submitted";
   $goto_after_mail = contact.html;
   
